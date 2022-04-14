@@ -1,0 +1,24 @@
+:host {
+    display: block;
+    margin-top: 1rem;
+}
+.info-text {
+    text-align: center;
+}
+mat-expansion-panel {
+    background-color: white;
+    color:black;
+}
+mat-spinner {
+    margin:auto;
+}
+mat-paginator {
+    margin-top: 1rem;
+}
+.postImage{
+    width:50%;
+}
+.postImage img{
+    width:70%;
+    box-shadow: 1px 1px 5px rgba(0,0,0,5);
+}
